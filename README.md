@@ -14,10 +14,10 @@
   <img align="right" height="250" width="400" alt="GIF" src="https://i.pinimg.com/originals/04/60/98/0460982ce322db79ef1b4df8db9c4406.gif">
 </a>
 
-- 👋 Hi, I’m @0x0bfixious, a Security Researcher & Penetration Tester.
-- 👀 I’m interested in getting into a Red Team, if you'd like to talk about that, feel free to contact me.
+- 👋 Hi, I’m Daniel, a Security Researcher & Penetration Tester.
+- 👀 I’m interested in getting into a Red Team. If you have an offer, feel free to contact me.
 - 🏴‍☠️ Currently a freelance Penetration Tester.
-- ☠︎︎ I’m looking to collaborate on new offensive security tools :)
+- ☠︎︎ Looking to collaborate on new offensive security tools :)
 - 📫 How to reach me ... Twitter: 0x0bfixious
 
 - #
